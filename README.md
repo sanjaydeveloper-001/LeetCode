@@ -1,5 +1,5 @@
+**LeetCode Daily Solutions**
 
-LeetCode Daily Solutions
 Welcome to my LeetCode Daily Solutions repository! 🚀
 
 📌 About
