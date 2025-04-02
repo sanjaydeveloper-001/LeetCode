@@ -1,0 +1,51 @@
+//Using Stack
+
+
+
+class Solution {
+    public int calPoints(String[] str) {
+        
+        Stack <Integer> st=new Stack<>();                 //Creating Stack
+
+        for(int i=0;i<str.length;i++){
+            String s=str[i];
+                                                         //Check the Possible Charectors given instead of int ('+',"C","D")
+            if(s.equals("+")){         
+                if(!st.isEmpty()){
+                    int n=st.pop();
+                    if(!st.isEmpty()){
+                        int sum=n+st.peek();
+                        st.push(n);
+                        st.push(sum);
+                    }
+                    else{
+                        st.push(n);
+                    }
+                }
+            }
+
+            else if(s.equals("D")){
+                if(!st.isEmpty()){
+                    int mul=st.peek()*2;
+                    st.push(mul);
+                }
+            }
+
+            else if(s.equals("C")){
+                if(!st.isEmpty()){
+                    st.pop();
+                }
+            }
+            
+            else{
+                st.push(Integer.parseInt(s));
+            }
+        }
+                                                           //Finding the Sum in Stack
+        int added=0;
+        for(int i=0;i<st.size();i++){
+            added+=st.get(i);
+        }
+        return added;
+    }
+}
