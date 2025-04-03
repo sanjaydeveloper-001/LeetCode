@@ -1,0 +1,32 @@
+//Recursion in Java
+
+class Solution {
+
+    public static List<String> fun(String s,int oc, int cl, int n, ArrayList<String> str){
+        if(s.length()== n*2){
+            str.add(s);
+            s="";
+        }
+        if(oc<n){
+            fun(s+"(",oc+1,cl,n,str);
+        }
+        if(cl<oc){
+            fun(s+")",oc,cl+1,n,str);
+        }
+        return str;
+    }
+
+
+    public List<String> generateParenthesis(int n) {
+        ArrayList<String> str=new ArrayList<>();
+        int oc=0;
+        int cl=0;
+        String s="";
+        return fun(s,oc,cl,n,str);
+    }
+}
+
+
+_____________________________________________________________________________________________________
+
+
