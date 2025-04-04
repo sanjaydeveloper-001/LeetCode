@@ -3,7 +3,7 @@
 Welcome to my LeetCode Daily Solutions repository! 🚀
 
 📌 About
-This repository contains my daily solutions to various LeetCode problems. Each solution is uploaded as a separate file, categorized based on problem difficulty and topic.
+This repository contains my daily solutions to various LeetCode problems. Each solution is uploaded as a separate file, categorized based on problem difficulty.
 
 📝 Structure
 The solutions are organized as follows:
