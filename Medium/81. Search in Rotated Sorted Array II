@@ -1,0 +1,39 @@
+//Efficient using For loop
+
+class Solution {
+    public boolean search(int[] nums, int target) {
+       for(int i=0;i<nums.length;i++){
+        if(nums[i]==target)
+        return true;
+       } 
+       return false;
+    }
+}
+
+_________________________________________________________________________
+
+
+
+//Efficient using while loop 
+
+class Solution {
+    public boolean search(int[] nums, int target) {
+        int left = 0;
+        int right = nums.length - 1;
+
+        while (left <= right) {
+            if (nums[left] == target)
+                return true;
+            if (nums[right] == target)
+                return true;
+
+            left++;
+            right--;
+        }
+
+        return false;
+    }
+}
+
+
+______________________________________________________________________________________
