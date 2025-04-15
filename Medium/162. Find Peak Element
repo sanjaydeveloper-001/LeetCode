@@ -1,0 +1,29 @@
+//Actual Search with returning the position
+
+class Solution {
+    public int findPeakElement(int[] nums) {
+        int left = 0;
+        int right = nums.length - 1;
+        int max = Integer.MIN_VALUE;
+        int pos = 0;
+
+        while (left <= right) {
+            if (nums[left] > max) {
+                max = nums[left];
+                pos = left;
+            }
+
+            if (nums[right] > max) {
+                max = nums[right];
+                pos = right;
+            }
+
+            left++;
+            right--;
+        }
+        return pos;
+    }
+}
+
+
+___________________________________________________________________
