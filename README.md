@@ -45,3 +45,19 @@ Open the file to check the solution and approach.
 🔹 Connect with me on LinkedIn (if applicable)
 
 Happy Coding! 💻🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0070-climbing-stairs) |
+<!---LeetCode Topics End-->
