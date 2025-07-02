@@ -63,6 +63,7 @@ Happy Coding! 💻🚀
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0001-two-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
@@ -76,4 +77,8 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
