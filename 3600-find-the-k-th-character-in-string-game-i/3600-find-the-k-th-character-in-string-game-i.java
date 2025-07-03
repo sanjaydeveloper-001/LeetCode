@@ -1,12 +1,15 @@
 class Solution {
     public char kthCharacter(int k) {
-        String s="a";
-        while(s.length() < k ){
-            int n=s.length();
-            for(int i=0;i<n;i++){
-                s+=(char)('a' + ((s.charAt(i) - 'a') + 1) %26 );
+        int ans = 0;
+        int t;
+        while (k != 1) {
+            t = 31 - Integer.numberOfLeadingZeros(k);
+            if ((1 << t) == k) {
+                t--;
             }
+            k = k - (1 << t);
+            ans++;
         }
-        return s.charAt(k-1);
+        return (char) ('a' + ans);
     }
 }
