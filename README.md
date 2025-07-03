@@ -52,6 +52,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0070-climbing-stairs) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -84,4 +86,12 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0001-two-sum) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
