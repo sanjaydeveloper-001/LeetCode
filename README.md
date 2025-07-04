@@ -52,6 +52,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0189-rotate-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
@@ -86,6 +87,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -94,4 +96,8 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
