@@ -58,6 +58,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0070-climbing-stairs) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Memoization
 |  |
@@ -90,6 +91,7 @@ Happy Coding! 💻🚀
 | [0001-two-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0041-first-missing-positive) |
 | [0189-rotate-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0189-rotate-array) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -102,4 +104,12 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+## Sorting
+|  |
+| ------- |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 <!---LeetCode Topics End-->
