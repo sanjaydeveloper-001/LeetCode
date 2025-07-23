@@ -92,6 +92,7 @@ Happy Coding! 💻🚀
 | [0001-two-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0041-first-missing-positive) |
 | [0189-rotate-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0189-rotate-array) |
+| [0854-making-a-large-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0854-making-a-large-island) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Recursion
 |  |
@@ -121,4 +122,20 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Depth-First Search
+|  |
+| ------- |
+| [0854-making-a-large-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0854-making-a-large-island) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0854-making-a-large-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0854-making-a-large-island) |
+## Union Find
+|  |
+| ------- |
+| [0854-making-a-large-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0854-making-a-large-island) |
+## Matrix
+|  |
+| ------- |
+| [0854-making-a-large-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0854-making-a-large-island) |
 <!---LeetCode Topics End-->
