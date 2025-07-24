@@ -95,6 +95,7 @@ Happy Coding! 💻🚀
 | [0189-rotate-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0189-rotate-array) |
 | [0854-making-a-large-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0854-making-a-large-island) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Recursion
 |  |
@@ -112,6 +113,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Sorting
 |  |
 | ------- |
@@ -128,19 +130,23 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0854-making-a-large-island) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0854-making-a-large-island) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Union Find
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0854-making-a-large-island) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Matrix
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0854-making-a-large-island) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Tree
 |  |
 | ------- |
