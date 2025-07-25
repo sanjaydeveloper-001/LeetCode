@@ -53,6 +53,7 @@ Happy Coding! 💻🚀
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
@@ -80,6 +81,7 @@ Happy Coding! 💻🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0231-power-of-two) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -102,6 +104,7 @@ Happy Coding! 💻🚀
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
