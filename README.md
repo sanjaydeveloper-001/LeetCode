@@ -59,6 +59,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0070-climbing-stairs) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Memoization
@@ -82,6 +83,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0231-power-of-two) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -105,6 +107,7 @@ Happy Coding! 💻🚀
 | [0200-number-of-islands](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0854-making-a-large-island) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
