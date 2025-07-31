@@ -1,48 +1,43 @@
+import java.util.AbstractList;
 class Solution {
-    public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-
-        // Sort the array
-        Arrays.sort(nums);
-
-        for (int i = 0; i < nums.length - 2; i++) {
-            // Skip duplicate elements for i
-            if (i > 0 && nums[i] == nums[i - 1]) {
-                continue;
-            }
-
-            int j = i + 1;
-            int k = nums.length - 1;
-
-            while (j < k) {
-                int sum = nums[i] + nums[j] + nums[k];
-
-                if (sum == 0) {
-                    // Found a triplet with zero sum
-                    ans.add(Arrays.asList(nums[i], nums[j], nums[k]));
-
-                    // Skip duplicate elements for j
-                    while (j < k && nums[j] == nums[j + 1]) {
-                        j++;
-                    }
-
-                    // Skip duplicate elements for k
-                    while (j < k && nums[k] == nums[k - 1]) {
-                        k--;
-                    }
-
-                    // Move the pointers
-                    j++;
-                    k--;
-                } else if (sum < 0) {
-                    // Sum is less than zero, increment j to increase the sum
-                    j++;
-                } else {
-                    // Sum is greater than zero, decrement k to decrease the sum
-                    k--;
-                }
-            }
-        }
-        return ans;
-    }
+    public List<List<Integer>> threeSum(int[] arr) {
+		return new AbstractList<List<Integer>>() {
+			List<List<Integer>> ans;
+			@Override
+			public int size() {
+				if (ans == null) ans = createList(arr);
+				return ans.size();
+			}
+			@Override
+			public List<Integer> get(int index) {
+				if (ans == null) ans = createList(arr);
+				return ans.get(index);
+			}
+		};
+	}
+	private List<List<Integer>> createList(int[] arr) {
+		List<List<Integer>> ans = new ArrayList<>();
+		int len = arr.length;
+		Arrays.sort(arr);
+		for (int i = 0; i < len - 2 && arr[i] <= 0; ++i) {
+			if (i != 0 && arr[i - 1] == arr[i]) continue;
+			twoSum(ans, arr, i + 1, len - 1, -arr[i]);
+		}
+		return ans;
+	}
+	private void twoSum(List<List<Integer>> ans, int[] arr, int left, int right, int target) {
+		while (left < right) {
+			int sum = arr[left] + arr[right];
+			if (sum < target) {
+				++left;
+				continue;
+			}
+			if (sum > target) {
+				--right;
+				continue;
+			}
+			ans.add(Arrays.asList(-target, arr[left++], arr[right--]));
+			while (left <= right && arr[left - 1] == arr[left]) ++left;
+		}
+	}
 }
