@@ -6,17 +6,11 @@ class Solution {
         List<Boolean> li = new ArrayList<>();
 
         for(int i=0; i<n; i++){
-            max= Math.max(max, can[i]);
+            if(max < can[i]) max = can[i];
         }
 
         for(int i=0; i<n; i++){
-            if(can[i] + eC >= max){
-                li.add(true);
-            }
-            else{
-                System.out.print(can[i]+eC+" ");
-                li.add(false);
-            }
+            li.add(can[i]+eC >= max);
         }
         return li;
     }
