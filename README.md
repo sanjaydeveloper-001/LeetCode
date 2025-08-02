@@ -60,6 +60,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -105,6 +106,7 @@ Happy Coding! 💻🚀
 | [0001-two-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0041-first-missing-positive) |
+| [0118-pascals-triangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0200-number-of-islands) |
