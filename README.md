@@ -64,6 +64,7 @@ Happy Coding! 💻🚀
 | [0934-bitwise-ors-of-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Memoization
 |  |
 | ------- |
@@ -126,6 +127,7 @@ Happy Coding! 💻🚀
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2689-rearranging-fruits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2689-rearranging-fruits) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -201,6 +203,7 @@ Happy Coding! 💻🚀
 | [0695-max-area-of-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0854-making-a-large-island) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Tree
 |  |
 | ------- |
