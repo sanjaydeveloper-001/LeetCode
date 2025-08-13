@@ -54,6 +54,7 @@ Happy Coding! 💻🚀
 | [0070-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -141,6 +142,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
