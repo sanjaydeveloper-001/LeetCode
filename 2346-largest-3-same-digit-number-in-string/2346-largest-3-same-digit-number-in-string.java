@@ -1,13 +1,22 @@
 class Solution {
     public String largestGoodInteger(String s) {
-        String best ="";
+        int max = -1;
+        String st ="";
         
-        for(int i = 0; i+2 < s.length(); i++){
+        for(int i = 2; i < s.length(); i++){
             char c = s.charAt(i);
-            if( c == s.charAt(i+1) && c == s.charAt(i+2) ){
-                best = best.compareTo(s.substring(i, i+3)) > 0 ? best : s.substring(i, i+3);
+            if( c == s.charAt(i-1) && c == s.charAt(i-2) ){
+                if(Integer.parseInt(String.valueOf(c)) > max){
+                    max = (Integer.parseInt(String.valueOf(c)));
+                    System.out.println(max);
+                    st = "";
+                    st+= c;
+                    st+=c;
+                    st+=c;
+                }
             }
         }
-        return best;
+        System.out.print(max);
+        return st;
     }
 }
