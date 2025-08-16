@@ -59,6 +59,7 @@ Happy Coding! 💻🚀
 | [0826-soup-servings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1448-maximum-69-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1448-maximum-69-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
@@ -181,6 +182,7 @@ Happy Coding! 💻🚀
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2689-rearranging-fruits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
