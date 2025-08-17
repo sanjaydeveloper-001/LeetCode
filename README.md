@@ -57,6 +57,7 @@ Happy Coding! 💻🚀
 | [0326-power-of-three](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1448-maximum-69-number) |
@@ -67,6 +68,7 @@ Happy Coding! 💻🚀
 | [0070-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0118-pascals-triangle) |
 | [0826-soup-servings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -243,6 +245,7 @@ Happy Coding! 💻🚀
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -259,6 +262,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0867-new-21-game) |
 ## Counting
 |  |
 | ------- |
