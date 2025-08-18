@@ -1,9 +1,9 @@
 class Solution {
-    // static {
-    //     for (int i = 0; i < 100; i++) {
-    //         findLucky(new int[0]);
-    //     }
-    // }
+    static {
+        for (int i = 0; i < 100; i++) {
+            findLucky(new int[0]);
+        }
+    }
     public static int findLucky(int[] arr) {
       int count [] = new int [502];
       int max = 1;
