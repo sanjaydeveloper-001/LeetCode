@@ -1,23 +1,25 @@
 class Solution {
-    public int findLucky(int[] arr) {
-        int lucky = -1;
-        Arrays.sort(arr);
-        int n = arr.length;
-        int max = arr[n-1];
-
-        int mat[] = new int[max+1];
-
-        for(int i=0; i<n; i++){
-            mat[arr[i]]++;
+    // static {
+    //     for (int i = 0; i < 100; i++) {
+    //         findLucky(new int[0]);
+    //     }
+    // }
+    public static int findLucky(int[] arr) {
+      int count [] = new int [502];
+      int max = 1;
+      for(int i=0;i<arr.length;i++) {
+        count[arr[i]]++;
+        max = Math.max(max,arr[i]);
+      }
+      count[max+1]=-1;
+      int i=0 ;
+      int lucky=-1;
+      while(count[i]!=-1){
+        if(count[i]==i && lucky<i){
+          lucky = i;
         }
-        for(int i=0; i<max+1; i++){
-            if(mat[i] != 0 && mat[i] == i ){
-                lucky = i;
-            }
-        }
-
-        
-        return lucky;
+        i++;
+      }
+      return lucky==0? -1:lucky;
     }
-    
 }
