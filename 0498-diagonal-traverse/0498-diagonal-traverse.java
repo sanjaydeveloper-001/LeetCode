@@ -1,25 +1,73 @@
-public class Solution {
-    public int[] findDiagonalOrder(int[][] matrix) {
-        if (matrix == null || matrix.length == 0) return new int[0];
+class Solution {
+    public int[] findDiagonalOrder(int[][] mat) {
+        //First element is always mat[0][0]
+        //Second element, if it extists, is mat[0][1]
+        //Then, from [0][1], go -1,-1 until wall is hit
+        //if possible, go down one
+        //then, go +1,+1 until next wall
+        //Else if possible, go right one, then +1,+1
+        //Else done
 
-        int m = matrix.length, n = matrix[0].length;
-        int[] result = new int[m * n];
-        int row = 0, col = 0;
+        if(mat.length == 1){ //if mat is single row/element
+            return mat[0];
+        }
 
-        for (int i = 0; i < m * n; i++) {
-            result[i] = matrix[row][col];
+        int total = mat.length*mat[0].length; //how many elements in mat
 
-            if ((row + col) % 2 == 0) {
-                if (col == n - 1) row++;
-                else if (row == 0) col++;
-                else { row--; col++; }
-            } else {
-                if (row == m - 1) col++;
-                else if (col == 0) row++;
-                else { row++; col--; }
+        int[] ret = new int[total]; //return value
+
+        ret[0] = mat[0][0]; //first element of ret is always mat[0][0]
+        
+        if(mat[0].length == 1){ //if mat is single column
+            for(int i=1; i<mat.length; i++){
+                ret[i] = mat[i][0];
+            }
+            return ret;
+        }
+
+        int count = 1;
+        int i = 0; int j=1;
+        boolean downLeft = true;
+
+        while(count < total){
+            if(downLeft){
+                while(j>0 && i<mat.length-1){
+                    ret[count] = mat[i][j];
+                    count++;
+                    i++;
+                    j--;
+                }
+
+                ret[count] = mat[i][j];
+                count++;                
+
+                if(i<mat.length-1){
+                    i++;
+                }else{
+                    j++;
+                }
+                downLeft = false;
+            }else{
+                while(i>0 && j<mat[0].length-1){
+                    ret[count] = mat[i][j];
+                    count++;
+                    i--;
+                    j++;
+                }
+
+                ret[count] = mat[i][j];
+                count++;
+
+                if(j<mat[0].length-1){
+                    j++;
+                }else{
+                    i++;
+                }
+
+                downLeft = true;
             }
         }
 
-        return result;
+        return ret;
     }
 }
