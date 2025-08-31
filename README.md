@@ -90,6 +90,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0041-first-missing-positive) |
 | [0900-reordered-power-of-2](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -131,6 +132,7 @@ Happy Coding! 💻🚀
 | ------- |
 | [0001-two-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0041-first-missing-positive) |
 | [0118-pascals-triangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0130-surrounded-regions) |
@@ -246,6 +248,7 @@ Happy Coding! 💻🚀
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -279,6 +282,7 @@ Happy Coding! 💻🚀
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sliding Window
