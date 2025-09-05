@@ -71,6 +71,7 @@ Happy Coding! 💻🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0118-pascals-triangle) |
 | [0826-soup-servings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0826-soup-servings) |
@@ -137,6 +138,7 @@ Happy Coding! 💻🚀
 | [0015-3sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0189-rotate-array) |
@@ -223,6 +225,7 @@ Happy Coding! 💻🚀
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0055-jump-game) |
 | [1448-maximum-69-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
