@@ -102,6 +102,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0041-first-missing-positive) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -116,6 +117,7 @@ Happy Coding! 💻🚀
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -351,6 +353,7 @@ Happy Coding! 💻🚀
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0867-new-21-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
