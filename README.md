@@ -238,6 +238,7 @@ Happy Coding! 💻🚀
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
@@ -259,6 +260,7 @@ Happy Coding! 💻🚀
 | [0110-balanced-binary-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0854-making-a-large-island) |
@@ -310,6 +312,7 @@ Happy Coding! 💻🚀
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Segment Tree
 |  |
@@ -392,6 +395,7 @@ Happy Coding! 💻🚀
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
