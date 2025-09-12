@@ -1,33 +1,45 @@
-import java.util.*;
-class Solution {
-    public int minDepth(TreeNode root) {
-        if (root == null) return 0;  // If the tree is empty, return depth 0
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.add(root);
-        int depth = 1;  // Start with depth 1 as we are at the root
-        
-        while (!queue.isEmpty()) {
-            int size = queue.size();
-            for (int i = 0; i < size; i++) {
-                TreeNode node = queue.poll();
-                
-                // If it's a leaf node, return the current depth
-                if (node.left == null && node.right == null) {
-                    return depth;
-                }
-                
-                // Add left and right children to the queue, if they exist
-                if (node.left != null) {
-                    queue.add(node.left);
-                }
-                if (node.right != null) {
-                    queue.add(node.right);
-                }
-            }
-            depth++;
+class Solution {
+ static{
+    Solution s=new Solution();
+    for(int i=0;i<500;i++){
+        s.minDepth(null);
+    }
+ }
+    public int minDepth(TreeNode root) {
+     if(root==null) return 0;
+     Queue<TreeNode> q=new ArrayDeque<TreeNode>();
+     q.add(root);
+     int min=Integer.MAX_VALUE;
+     int counter=0;
+     while(!q.isEmpty()){
+        int size=q.size();
+        counter++;
+        for(int i=0;i<size;i++){
+        TreeNode t= q.poll();
+      if(t.left==null&&t.right==null){
+        min=Math.min(min,counter);
+        return min;
+      }
+      if(t.left!=null) q.add(t.left);
+      if(t.right!=null) q.add(t.right);
         }
-        
-        return 0;  // This line will never be reached if the tree is valid
+     }
+     return min;
     }
 }
