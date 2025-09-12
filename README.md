@@ -51,6 +51,7 @@ Happy Coding! 💻🚀
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0231-power-of-two) |
@@ -110,6 +111,7 @@ Happy Coding! 💻🚀
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0067-add-binary) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -120,6 +122,7 @@ Happy Coding! 💻🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -198,6 +201,7 @@ Happy Coding! 💻🚀
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
