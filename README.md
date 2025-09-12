@@ -423,4 +423,8 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
