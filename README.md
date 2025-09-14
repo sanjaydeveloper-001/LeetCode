@@ -111,6 +111,7 @@ Happy Coding! 💻🚀
 | [0169-majority-element](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -126,6 +127,7 @@ Happy Coding! 💻🚀
 | [0067-add-binary](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [1006-vowel-spellchecker](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -178,6 +180,7 @@ Happy Coding! 💻🚀
 | [0854-making-a-large-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0854-making-a-large-island) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
