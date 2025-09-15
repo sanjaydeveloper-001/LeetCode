@@ -1,16 +1,22 @@
 class Solution {
-    public int canBeTypedWords(String str, String s) {
-        String [] words = str.split(" ");
-
-        int c = 0;
-
-        for(int i=0; i<words.length; i++){
-            int flag = 0;
-            for(char ch : s.toCharArray()){
-                if( words[i].contains(String.valueOf(ch))) flag = 1;
+    static {
+        for(int i = 0; i < 500; i++) canBeTypedWords("jjhc", "ndc");
+    }
+    public static int canBeTypedWords(String text, String brokenLetters) {
+        int count = 1;
+        boolean flag = true;
+        boolean[] c = new boolean[26];
+        for(int i = 0; i < brokenLetters.length(); i++) c[brokenLetters.charAt(i) - 97] = true;
+        for(char ch : text.toCharArray()) {
+            if(ch == ' ') {
+                flag = true;
+                count++;
             }
-            if(flag == 0) c++;
+            else if(c[ch - 97] && flag) {
+                count--;
+                flag = false;
+            }
         }
-        return c;
+        return count < 1 ? 0 : count;
     }
 }
