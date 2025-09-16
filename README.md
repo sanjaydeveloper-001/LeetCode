@@ -67,6 +67,7 @@ Happy Coding! 💻🚀
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1448-maximum-69-number) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -196,6 +197,7 @@ Happy Coding! 💻🚀
 | [2101-last-day-where-you-can-still-cross](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -266,6 +268,7 @@ Happy Coding! 💻🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -449,4 +452,8 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
