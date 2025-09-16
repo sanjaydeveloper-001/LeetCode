@@ -1,37 +1,29 @@
-import java.util.*;
-
 class Solution {
     public List<Integer> replaceNonCoprimes(int[] nums) {
-        LinkedList<Integer> stack = new LinkedList<>();
+        
+         int n = nums.length;
+         int[] stack = new int[n];
+         int top = -1;
 
-        for (int num : nums) {
-            stack.add(num);
+         for(int num:nums){
 
-            while (stack.size() > 1) {
-                int a = stack.getLast();
-                int b = stack.get(stack.size() - 2);
-
-                int g = gcd(a, b);
-                if (g == 1) break;
-
-                stack.removeLast();
-                stack.removeLast();
-                stack.add(lcm(a, b, g));
+            while(top != -1){
+              int x = gcd(stack[top], num);
+              if(x == 1) break;
+              num *= stack[top--]/x;
             }
-        }
-        return stack;
-    }
 
-    private int gcd(int a, int b) {
-        while (b != 0) {
-            int temp = b;
-            b = a % b;
-            a = temp;
+            stack[++top] = num;
         }
-        return a;
+        
+        List<Integer> result = new ArrayList<Integer>(top + 1);
+        for(int i = 0; i <= top; ++i)
+            result.add(stack[i]);
+        
+        return result;
     }
-
-    private int lcm(int a, int b, int g) {
-        return (int)((long)a / g * b);  // prevent overflow
+    
+    public int gcd(int a, int b){
+        return b == 0 ? a: gcd(b, a % b);
     }
 }
