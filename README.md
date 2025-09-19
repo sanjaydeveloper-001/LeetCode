@@ -121,6 +121,7 @@ Happy Coding! 💻🚀
 | [2689-rearranging-fruits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3678-design-task-manager](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -142,6 +143,7 @@ Happy Coding! 💻🚀
 | [3462-vowels-game-in-a-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3797-design-spreadsheet](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -221,6 +223,7 @@ Happy Coding! 💻🚀
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Recursion
 |  |
 | ------- |
@@ -336,6 +339,7 @@ Happy Coding! 💻🚀
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Tree
 |  |
 | ------- |
@@ -410,6 +414,7 @@ Happy Coding! 💻🚀
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
