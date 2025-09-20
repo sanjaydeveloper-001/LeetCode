@@ -7,7 +7,7 @@ class Solution {
             char t = s[l];
             s[l] = s[r];
             s[r] = t;
-
+            
             l++;
             r--;
         }
