@@ -1,21 +1,27 @@
 class Solution {
     public int maxFrequencyElements(int[] nums) {
-        Map<Integer, Integer> freq = new HashMap<>();
-        int frequency = 0, count = 0;
-
-        for (int num : nums) {
-            freq.put(num, freq.getOrDefault(num, 0) + 1);
-        }
-
-        for (int val : freq.values()) {
-            if (val == frequency) {
-                count++;
-            } else if (val > frequency) {
-                frequency = val;
-                count = 1;
+        int n = nums.length;
+        int max = Integer.MIN_VALUE;
+        for(int i=0;i<n;i++) {
+            if(nums[i]>max) {
+                max = nums[i];
             }
         }
+        int[] arr = new int[max+1];
+        for(int i=0;i<n;i++) {
+            arr[nums[i]]++;
+        }
+        int maxFreq = 0;
+        int count = 0;
+        for(int i=0;i<arr.length;i++) {
+            if(maxFreq<arr[i]) {
+                maxFreq = arr[i];
+                count = 1;
+            } else if (maxFreq == arr[i]) {
+                Math.max(maxFreq,++count);
+            }
 
-        return frequency * count;
+        }
+        return count*maxFreq;
     }
 }
