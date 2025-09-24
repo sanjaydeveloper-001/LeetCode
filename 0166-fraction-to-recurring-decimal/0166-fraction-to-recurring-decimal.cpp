@@ -1,53 +1,44 @@
-// a variant with several considerations
-// use reduced fraction
-// judge if it has finitely many decimals; if yes, no need hashmap
 class Solution {
 public:
     string fractionToDecimal(int numerator, int denominator) {
-        if (numerator==0) return "0";
+        if (numerator == 0) return "0"; // Zero numerator gives "0"
 
-        string ans;
-        // Handle sign
-        if ((numerator<0)^(denominator< 0)) ans+='-';
-        // Convert to long to avoid overflow (INT_MIN)
-        long long num=abs((long long)numerator);
-        long long den=abs((long long)denominator);
+        string result;
 
-        int g=gcd(num, den);
-        num/=g, den/=g;// consider reduced fraction
+        // Handle negative sign
+        if ((numerator < 0) ^ (denominator < 0)) 
+            result += '-';
 
-        long long q=num/den;
-        long long r=num%den;
-        ans+=to_string(q);
+        // Convert to long long to avoid overflow
+        long long n = abs((long long)numerator);
+        long long d = abs((long long)denominator);
 
-        if (r==0) return ans;
+        // Append integer part
+        result += to_string(n / d);
+        long long remainder = n % d;
+        if (remainder == 0) return result; // No fractional part
 
-        // judge whether it has finite many decimals
-        int factor_wo2_5=den;
-        int bz=__builtin_ctzll(factor_wo2_5);
-        factor_wo2_5>>=bz;
-        while(factor_wo2_5%5==0) factor_wo2_5/=5;
-        bool finteDecimal=factor_wo2_5==1;
+        result += '.'; // Start fractional part
 
-        ans+= '.';
-        unordered_map<long long, int> mp;
-        string frac;
+        // Map to store remainder and its corresponding index in result
+        unordered_map<long long, int> remainderIndex;
 
-        for(int i=0; r != 0; i++) {
-            if (!finteDecimal){
-                auto it=mp.find(r);
-                if (it!=mp.end()) {
-                    frac.insert(it->second, "(");
-                    frac+= ')';
-                    break;
-                }
-                mp[r]=i;
+        while (remainder != 0) {
+            // If this remainder has been seen before, we have a repeating cycle
+            if (remainderIndex.count(remainder)) {
+                result.insert(remainderIndex[remainder], "(");
+                result += ')';
+                break;
             }
-            r*=10;
-            frac+=('0'+r/den);
-            r%=den;
+
+            // Store the current remainder with its position
+            remainderIndex[remainder] = result.size();
+
+            remainder *= 10;
+            result += to_string(remainder / d);
+            remainder %= d;
         }
 
-        return ans+frac;
+        return result;
     }
 };
