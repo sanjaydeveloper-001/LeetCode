@@ -81,6 +81,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0118-pascals-triangle) |
@@ -138,6 +139,7 @@ Happy Coding! 💻🚀
 | [0005-longest-palindromic-substring](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -247,6 +249,7 @@ Happy Coding! 💻🚀
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0342-power-of-four) |
@@ -305,6 +308,7 @@ Happy Coding! 💻🚀
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0455-assign-cookies) |
