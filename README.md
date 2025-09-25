@@ -185,6 +185,7 @@ Happy Coding! 💻🚀
 | ------- |
 | [0001-two-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0055-jump-game) |
@@ -262,6 +263,7 @@ Happy Coding! 💻🚀
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0031-next-permutation) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0189-rotate-array) |
