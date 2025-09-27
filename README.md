@@ -141,6 +141,7 @@ Happy Coding! 💻🚀
 | [0006-zigzag-conversion](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0068-text-justification) |
 | [0165-compare-version-numbers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0165-compare-version-numbers) |
