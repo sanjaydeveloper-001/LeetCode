@@ -1,18 +1,20 @@
 class Solution {
-    public int minScoreTriangulation(int[] v) {
-        int n = v.length;
-        int[][] dp = new int[n][n];
-        // dp[i][j] = min score for polygon [i..j]
-        for (int len=3; len<=n; len++) {
-            for (int i=0; i+len-1<n; i++) {
-                int j = i+len-1;
-                dp[i][j] = Integer.MAX_VALUE;
-                for (int k=i+1; k<j; k++) {
-                    dp[i][j] = Math.min(dp[i][j],
-                        dp[i][k] + dp[k][j] + v[i]*v[j]*v[k]);
-                }
-            }
+    int [][]dp;
+    public int minScoreTriangulation(int[] values) {
+        dp = new int[values.length][values.length];
+        return helper(values, 0, values.length-1);
+    }
+    int helper(int []a, int i, int j){
+        if(j - i < 2){
+            return 0;
         }
-        return dp[0][n-1];
+        if(dp[i][j] != 0)
+        return dp[i][j];
+        int min = Integer.MAX_VALUE;
+        for(int k = i+1 ; k < j ; k++){
+            int cost = a[i]*a[k]*a[j] + helper(a,i,k)+helper(a,k,j);
+            min = Math.min(min, cost);
+        }
+        return dp[i][j] = min;
     }
 }
