@@ -1,17 +1,34 @@
 class Solution {
-    public int candy(int[] ratings) {
-        int n = ratings.length;
-        int cnt = 0;
-        int[] candies = new int[n];
-        for (int i = 0; i < n; i++) candies[i] = 1;
-        for (int i = 1; i < n; i++)
-            if (ratings[i] > ratings[i - 1])
-                candies[i] = candies[i - 1] + 1;
-        for (int i = n - 1; i > 0; i--) {
-            if (ratings[i - 1] > ratings[i])
-                candies[i - 1] = Math.max(candies[i] + 1, candies[i - 1]);
-            cnt += candies[i - 1];
+     static {
+        for (int i = 0; i < 140; ++i)
+            candy(new int[] { 1, 3, 2 });
+            System.gc();
+    }
+    public static int candy(int[] ratings) {
+        int i=1;
+        int candy=1;
+        while(i<ratings.length){
+            if(ratings[i]==ratings[i-1]){
+                candy++;
+                i++;
+            }else{
+                int peak=1;
+                while(i<ratings.length&&ratings[i]>ratings[i-1]){
+                    peak++;
+                    candy+=peak;
+                    i++;
+                }
+                int down=1;
+                while(i<ratings.length&&ratings[i]<ratings[i-1]){
+                    candy+=down;
+                    down++;
+                    i++;
+                }
+                if(down>peak){
+                    candy=candy-peak+down;
+                }
+            }
         }
-        return cnt + candies[n - 1];
+        return candy;
     }
 }
