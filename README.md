@@ -87,6 +87,7 @@ Happy Coding! 💻🚀
 | [0044-wildcard-matching](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -409,6 +410,7 @@ Happy Coding! 💻🚀
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -439,6 +441,7 @@ Happy Coding! 💻🚀
 | ------- |
 | [0037-sudoku-solver](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0679-24-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sliding Window
@@ -515,6 +518,7 @@ Happy Coding! 💻🚀
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -532,6 +536,7 @@ Happy Coding! 💻🚀
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Linked List
 |  |
