@@ -116,6 +116,7 @@ Happy Coding! 💻🚀
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0169-majority-element) |
@@ -149,6 +150,7 @@ Happy Coding! 💻🚀
 | [0065-valid-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -448,6 +450,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0867-new-21-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
