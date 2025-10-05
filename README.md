@@ -87,6 +87,7 @@ Happy Coding! 💻🚀
 | [0044-wildcard-matching](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0120-triangle) |
@@ -204,6 +205,7 @@ Happy Coding! 💻🚀
 | [0041-first-missing-positive](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0068-text-justification) |
+| [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0120-triangle) |
@@ -330,6 +332,7 @@ Happy Coding! 💻🚀
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -394,6 +397,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -505,6 +509,7 @@ Happy Coding! 💻🚀
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Geometry
 |  |
