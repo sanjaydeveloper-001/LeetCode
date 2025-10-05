@@ -1,28 +1,53 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
     public List<TreeNode> generateTrees(int n) {
-        return n > 0 ? generate_trees(1, n) : new ArrayList<>();
+        List<TreeNode>[][] memo = new List[n + 1][n + 1];
+        return build(1, n, memo);
     }
 
-    private List<TreeNode> generate_trees(int start, int end) {
-        List<TreeNode> all_trees = new ArrayList<>();
+    private List<TreeNode> build(int start, int end, List<TreeNode>[][] memo) {
+        List<TreeNode> trees = new ArrayList<>();
+        
         if (start > end) {
-            all_trees.add(null);
-            return all_trees;
+            trees.add(null);
+            return trees;
+        }
+
+        if (memo[start][end] != null) {
+            return memo[start][end];
         }
 
         for (int i = start; i <= end; i++) {
-            List<TreeNode> left_trees = generate_trees(start, i - 1);
-            List<TreeNode> right_trees = generate_trees(i + 1, end);
+            List<TreeNode> left = build(start, i - 1, memo);
+            List<TreeNode> right = build(i + 1, end, memo);
 
-            for (TreeNode l : left_trees) {
-                for (TreeNode r : right_trees) {
-                    TreeNode current_tree = new TreeNode(i);
-                    current_tree.left = l;
-                    current_tree.right = r;
-                    all_trees.add(current_tree);
+            for (TreeNode l : left) {
+                for (TreeNode r : right) {
+                    TreeNode node = new TreeNode(i, l, r);
+                    trees.add(node);
                 }
             }
         }
-        return all_trees;
+        return memo[start][end] = trees;
     }
+
+    // n = 3 -> start 1 end 3
+    // root = 1 -> left = start - 0 ; right = 2 - 3;
+
+    // n = 4
+    // root 2 -> left = 1 ; right = 3,4
 }
