@@ -1,36 +1,38 @@
 class Solution {
-    int dirs[][] = {{0,-1},{0,1},{-1,0},{1,0}};
-    
-    public int swimInWater(int[][] grid) {
-        int n = grid.length;
-        int ans = Integer.MAX_VALUE;
-        int low = 0, high = n * n - 1;
+  int len;
+final static int[][] dirs = new int[][]{{1,0},{0,1},{-1,0},{0,-1}};
 
-        while (low <= high) {
-            int mid = (low + high) / 2;
-            boolean vis[][] = new boolean[n][n];
-            if (grid[0][0] <= mid && dfs(0, 0, mid, grid, vis)) {
-                ans = mid;
-                high = mid - 1;
-            } else {
-                low = mid + 1;
+public int swimInWater(int[][] grid) {
+    len = grid.length;
+    int left = Math.max(grid[0][0], grid[len - 1][len - 1]), right = len * len - 1, mid, res = 0;
+    while (left <= right) {
+        mid = (left + right) / 2;
+        boolean[] seen = new boolean[len * len];
+        if (dfs(0, 0, grid, mid, seen)) {
+            res = mid;
+            right = mid - 1;
+        } else {
+            left = mid + 1;
+        }
+    }
+    return res;
+}
+public boolean dfs(int xn, int yn, int[][] grid, int mid, boolean[] seen) {
+    int idx = xn * len + yn;
+    if (seen[idx]) return true;
+    seen[idx] = true;
+    for (int i = 0; i < 4; i++) {
+        int newx = xn + dirs[i][0], newy = yn + dirs[i][1];
+        if (newx >= 0 && newx < len && newy >= 0
+                && newy < len && !seen[newx * len + newy] && grid[newx][newy] <= mid) {
+            if (newx == len - 1 && newy == len - 1) {
+                return true;
+            }
+            if (dfs(newx, newy, grid, mid, seen)) {
+                return true;
             }
         }
-        return ans;
     }
-
-    boolean dfs(int x, int y, int t, int[][] grid, boolean[][] vis) {
-        int n = grid.length;
-        vis[x][y] = true;
-        if (x == n - 1 && y == n - 1) return true;
-
-        for (int[] d : dirs) {
-            int nx = x + d[0], ny = y + d[1];
-            if (nx >= 0 && nx < n && ny >= 0 && ny < n &&
-                !vis[nx][ny] && grid[nx][ny] <= t) {
-                if (dfs(nx, ny, t, grid, vis)) return true;
-            }
-        }
-        return false;
-    }
+    return false;
+}
 }
