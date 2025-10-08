@@ -249,6 +249,7 @@ Happy Coding! 💻🚀
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -303,6 +304,7 @@ Happy Coding! 💻🚀
 | [0455-assign-cookies](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
 | ------- |
@@ -313,6 +315,7 @@ Happy Coding! 💻🚀
 | [2101-last-day-where-you-can-still-cross](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -329,6 +332,7 @@ Happy Coding! 💻🚀
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2689-rearranging-fruits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
