@@ -1,31 +1,3 @@
-// class Solution {
-//     public int[] successfulPairs(int[] spells, int[] potions, long success) {
-//         Arrays.sort(potions);
-//         int[] result = new int[spells.length];
-//         int i = 0;
-//         int len = potions.length;
-//         for(int spell : spells){
-//             int idx = binary(potions, spell, success);
-//             result[i++] = len-idx;
-//         }
-//         return result;
-//     }
-//     private int binary(int[] potions, int spell, long success) {
-//         int start = 0, end = potions.length - 1;
-//         while (start <= end) {
-//             int mid = start + (end - start) / 2;
-//             long product = (long) spell * potions[mid]; // cast to long to avoid overflow
-//             if (product >= success) {
-//                 end = mid - 1; // go left to find first valid
-//             } else {
-//                 start = mid + 1; // go right
-//             }
-//         }
-//         return start; // first index where spell*potions[idx] >= success
-//     }
-// }
-
-
 class Solution {
     public int[] successfulPairs(int[] spells, int[] potions, long success) {
         int m = spells.length;
