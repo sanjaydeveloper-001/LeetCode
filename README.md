@@ -84,6 +84,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0055-jump-game) |
@@ -151,6 +152,7 @@ Happy Coding! 💻🚀
 | [0005-longest-palindromic-substring](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0065-valid-number) |
@@ -288,6 +290,7 @@ Happy Coding! 💻🚀
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0231-power-of-two) |
