@@ -222,6 +222,7 @@ Happy Coding! 💻🚀
 | [0051-n-queens](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0068-text-justification) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0118-pascals-triangle) |
@@ -369,6 +370,7 @@ Happy Coding! 💻🚀
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -564,6 +566,7 @@ Happy Coding! 💻🚀
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Geometry
