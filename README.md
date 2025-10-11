@@ -491,6 +491,7 @@ Happy Coding! 💻🚀
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0052-n-queens-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0052-n-queens-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0679-24-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
