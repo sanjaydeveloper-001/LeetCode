@@ -120,6 +120,7 @@ Happy Coding! 💻🚀
 | [0001-two-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -155,6 +156,7 @@ Happy Coding! 💻🚀
 | [0008-string-to-integer-atoi](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0065-valid-number) |
@@ -499,6 +501,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0867-new-21-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0940-fruit-into-baskets) |
