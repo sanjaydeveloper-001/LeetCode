@@ -36,16 +36,16 @@ class Solution {
 
     long dfs(int i, int mLeft, int carry, int kLeft, int[][] pows, int[][][][] memo) {
         int ones = Integer.bitCount(carry);
-        if (ones + mLeft < kLeft) return 0; // agar baaki bits se k banana possible nahi toh return 0
-        if (i == pows.length) return (mLeft == 0 && ones == kLeft) ? 1 : 0; // base case check
-        if (memo[i][mLeft][carry][kLeft] != -1) return memo[i][mLeft][carry][kLeft]; // memo use karo
+        if (ones + mLeft < kLeft) return 0;
+        if (i == pows.length) return (mLeft == 0 && ones == kLeft) ? 1 : 0; 
+        if (memo[i][mLeft][carry][kLeft] != -1) return memo[i][mLeft][carry][kLeft]; 
 
         long res = 0;
         for (int j = 0; j <= mLeft; j++) {
-            int bit = (carry + j) & 1; // current bit nikala (odd/even)
-            if (bit <= kLeft) { // agar bit useful hai
+            int bit = (carry + j) & 1;
+            if (bit <= kLeft) { 
                 long r = dfs(i + 1, mLeft - j, (carry + j) >> 1, kLeft - bit, pows, memo);
-                res = (res + r * pows[i][j] % MOD * INV_FACT[j]) % MOD; // result add karo
+                res = (res + r * pows[i][j] % MOD * INV_FACT[j]) % MOD; 
             }
         }
         return memo[i][mLeft][carry][kLeft] = (int) res;
