@@ -1,20 +1,39 @@
-class Solution {
-    public List<String> removeAnagrams(String[] words) {
-        int n = words.length;
-        List<Map<Character, Integer>> freq = new ArrayList<>();
-        for (String w : words) {
-            Map<Character, Integer> map = new HashMap<>();
-            for (char c : w.toCharArray())
-                map.put(c, map.getOrDefault(c, 0) + 1);
-            freq.add(map);
-        }
+import java.util.AbstractList;
 
-        List<String> ans = new ArrayList<>();
-        ans.add(words[0]);
-        for (int i = 1; i < n; i++) {
-            if (!freq.get(i).equals(freq.get(i - 1)))
-                ans.add(words[i]);
+class Solution {
+        List<String> res;
+
+        public List<String> removeAnagrams(String[] words) {
+                return new AbstractList<String>() {
+                        @Override
+                        public int size() {
+                                init(); 
+                                return res.size(); 
+                        }
+                        @Override 
+                        public String get(int index) {
+                                init(); 
+                                return res.get(index); 
+                        }
+                        protected void init() {
+                                if (res != null)
+                                        return; 
+                                res = new ArrayList<String>(); 
+                                res.add(words[0]); 
+
+                                String cur = metaDo(words[0]); 
+                                for (int J = 1; J < words.length; J += 1) {
+                                        final String s0 = metaDo(words[J]); 
+                                        if (!s0.equals(cur)) {
+                                                res.add(words[J]); cur = s0; 
+                                        }
+                                }
+                        }
+                }; 
         }
-        return ans;
-    }
+        private static String metaDo(String s) {
+                char[] chars = s.toCharArray(); 
+                Arrays.sort(chars);   
+                return String.valueOf(chars); 
+        }
 }
