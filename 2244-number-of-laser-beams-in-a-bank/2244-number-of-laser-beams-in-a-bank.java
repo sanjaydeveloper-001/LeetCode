@@ -1,16 +1,18 @@
 class Solution {
     public int numberOfBeams(String[] bank) {
-        int ans=0, prev=0;
-        final int n=bank[0].length();
-        for(String row : bank){
-            int dev=0;
-            for(int j=0; j<n; j++)
-                dev+=(row.charAt(j)=='1'?1:0);
-            if (dev>0){
-                ans+=dev*prev;
-                prev=dev;
-            }   
+        int number = 0, last = mun(bank[0]);
+        for (int i = 1; i < bank.length; i++) {
+            int current = mun(bank[i]);
+            if (current == 0) continue;
+            number += (last * (last = current));
         }
-        return ans;
+        return number;
+    }
+
+    int mun(String s) {
+        int res = 0;
+        for (int i = 0; i < s.length(); i++)
+            res += (s.charAt(i) - '0');
+        return res;
     }
 }
