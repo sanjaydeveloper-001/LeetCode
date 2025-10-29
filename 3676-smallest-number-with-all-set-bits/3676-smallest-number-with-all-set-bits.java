@@ -1,9 +1,8 @@
 class Solution {
     public int smallestNumber(int n) {
-        int x=n;
-        while((x&(x+1))!=0){
-            x++;
+        for(int i=0;i<32;i++){
+            if(Math.pow(2,i)-1>=n) return (int)Math.pow(2,i)-1;
         }
-        return x;
+        return -1;
     }
 }
