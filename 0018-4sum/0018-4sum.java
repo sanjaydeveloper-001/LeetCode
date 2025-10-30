@@ -1,46 +1,47 @@
+import java.util.*;
 class Solution {
+    private List<List<Integer>> result;
     public List<List<Integer>> fourSum(int[] nums, int target) {
-        int n = nums.length;
-        List<List<Integer>> list = new ArrayList<>();
-        Arrays.sort(nums);
+        return new AbstractList<List<Integer>>() {
+            public List<Integer> get(int index) {
+                init();
+                return result.get(index);
+            }
 
-        for(int i = 0; i < n; i++) {
-            //check for duplicates
-            if(i != 0 && nums[i] == nums[i-1]) continue;
+            public int size() {
+                init();
+                return result.size();
+            }
 
-            for(int j = i+1; j < n; j++) {
-                //check for duplicates
-                if(j > i+1 && nums[j] == nums[j-1]) continue;
+            private void init(){ 
+                List<List<Integer>> res = new ArrayList<>();
+                Set<List<Integer>> resSet = new HashSet<>();
+                int n =  nums.length;
+                Arrays.sort(nums);
+                for(int i = 0; i < n - 3; i++){
+                    for(int j = i+1; j < n - 2; j++){
+                        long newTarget = (long) target - (long) nums[i] - (long) nums[j]; 
+                        int low = j+1, high = n-1;
+                        while(low < high){
 
-                int k = j + 1;
-                int l = n - 1;
-                while(k < l) {
-                    long sum = (long) nums[i] + (long) nums[j] + (long) nums[k] + (long) nums[l];
-
-                    if(sum > target) {
-                        l--;
-                    }
-                    else if(sum < target) {
-                        k++;
-                    }
-                    else if(sum == target){
-                        List<Integer> temp = new ArrayList<>();
-                        temp.add(nums[i]);
-                        temp.add(nums[j]);
-                        temp.add(nums[k]);
-                        temp.add(nums[l]);
-                        list.add(temp);
-                        k++;
-                        l--;
-
-                        //check for duplicates
-                        while(k<l && nums[k] == nums[k-1]) k++;
-                        while(k<l && nums[l] == nums[l+1]) l--;
+                            if(nums[low] + nums[high] == newTarget){
+                                resSet.add(Arrays.asList(nums[low] , nums[high] , nums[i] , nums[j]));
+                                while(low<high && nums[low] == nums[low+1]) low++;
+                                while(low<high && nums[high] == nums[low-1]) high--;
+                                low++;
+                                high--;
+                            }
+                            else if(nums[low] + nums[high] < newTarget){
+                                low++;
+                            }else{
+                                high--;
+                            }
+                        }
                     }
                 }
+                res.addAll(resSet);
+                result = res;
             }
-        }
-
-        return list;
+        };
     }
 }
