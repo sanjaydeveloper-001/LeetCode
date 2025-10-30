@@ -111,6 +111,7 @@ Happy Coding! 💻🚀
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -283,6 +284,7 @@ Happy Coding! 💻🚀
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -418,6 +420,7 @@ Happy Coding! 💻🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Greedy
@@ -436,6 +439,7 @@ Happy Coding! 💻🚀
 | [1448-maximum-69-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -625,6 +629,7 @@ Happy Coding! 💻🚀
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Geometry
 |  |
 | ------- |
