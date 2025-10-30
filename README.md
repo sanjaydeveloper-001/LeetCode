@@ -51,6 +51,7 @@ Happy Coding! 💻🚀
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0070-climbing-stairs) |
@@ -246,6 +247,7 @@ Happy Coding! 💻🚀
 | [0040-combination-sum-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0068-text-justification) |
@@ -500,6 +502,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0200-number-of-islands) |
