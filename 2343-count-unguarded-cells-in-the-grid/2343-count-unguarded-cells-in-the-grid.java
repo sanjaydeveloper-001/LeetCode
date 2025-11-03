@@ -1,47 +1,89 @@
-import java.util.*;
-
 class Solution {
-    void dfs(int r, int c, String dir, int[][] vis, Map<String, Integer> mp) {
-        int n = vis.length;
-        int m = vis[0].length;
-        if (r < 0 || c < 0 || r >= n || c >= m) return;
-        if (mp.containsKey(r + "," + c)) return;
-        vis[r][c] = 1;
-
-        if (dir.equals("r")) dfs(r, c + 1, "r", vis, mp);
-        if (dir.equals("l")) dfs(r, c - 1, "l", vis, mp);
-        if (dir.equals("u")) dfs(r - 1, c, "u", vis, mp);
-        if (dir.equals("d")) dfs(r + 1, c, "d", vis, mp);
-    }
-
     public int countUnguarded(int m, int n, int[][] guards, int[][] walls) {
-        int[][] vis = new int[m][n];
-        Queue<int[]> q = new LinkedList<>();
-        Map<String, Integer> mp = new HashMap<>();
-
-        for (int[] g : guards) {
-            q.add(g);
-            mp.put(g[0] + "," + g[1], 1);
-            vis[g[0]][g[1]] = 1;
+          int visit[][]=new int[m][n];
+          int count=0;
+          int gr=guards.length;
+          int wr=walls.length;
+          for(int[] wall:walls)
+          {
+            visit[wall[0]][wall[1]]=2;
+          }
+          for(int gu[]:guards)
+        {
+            visit[gu[0]][gu[1]]=2;
         }
+          int[][] dxdy={{-1,0},{1,0},{0,-1},{0,1}};
+          for(int row=0;row<gr;row++){
+                int dx=guards[row][0];
+                int dy=guards[row][1];
+                for(int i=dx+1;i<m;i++)
+                {
+                    int newdx=i;
+                    int newdy=dy;
+                    if(visit[newdx][newdy]==2)
+                    {
+                        break;
+                    } 
+                    if(visit[newdx][newdy]==1)
+                    {
+                        continue;
+                    }
+                    visit[newdx][newdy]=1;
+                    count++;
+                }
+                for(int i=dy+1;i<n;i++)
+                {
+                    int newdx=dx;
+                    int newdy=i;
+                    if(visit[newdx][newdy]==2)
+                    {
+                        break;
+                    }
+                    if(visit[newdx][newdy]==1){
+                        continue;
+                    }
+                    visit[newdx][newdy]=1;
+                    count++;
 
-        for (int[] w : walls) {
-            mp.put(w[0] + "," + w[1], 1);
-            vis[w[0]][w[1]] = 1;
-        }
+                }
+                for(int i=dy-1;i>=0;i--)
+                {
+                    int newdx=dx;
+                    int newdy=i;
+                    if(visit[newdx][newdy]==2)
+                    {
+                        break;
+                    }
+                        
+                    if(visit[newdx][newdy]==1){
+                        continue;
+                    }
+                    visit[newdx][newdy]=1;
+                    count++;
 
-        for (int[] g : guards) {
-            int r = g[0], c = g[1];
-            dfs(r, c + 1, "r", vis, mp);
-            dfs(r, c - 1, "l", vis, mp);
-            dfs(r + 1, c, "d", vis, mp);
-            dfs(r - 1, c, "u", vis, mp);
-        }
+                }
+                for(int i=dx-1;i>=0;i--)
+                {
+                    int newdx=i;
+                    int newdy=dy;
+                    if(visit[newdx][newdy]==2)
+                    {
+                        break;
+                    }
+                        
+                    if(visit[newdx][newdy]==1){
+                        continue;
+                    }
+                    visit[newdx][newdy]=1;
+                    count++;
+                }
+            
+          }
+          
+          int sum=(m*n)-(gr+wr+count);
+          return sum;
 
-        int cnt = 0;
-        for (int i = 0; i < m; i++)
-            for (int j = 0; j < n; j++)
-                if (vis[i][j] == 0) cnt++;
-        return cnt;
     }
+   
+
 }
