@@ -169,6 +169,7 @@ Happy Coding! 💻🚀
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -346,6 +347,7 @@ Happy Coding! 💻🚀
 | [3797-design-spreadsheet](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Recursion
 |  |
 | ------- |
@@ -488,6 +490,7 @@ Happy Coding! 💻🚀
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3863-power-grid-maintenance](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -504,6 +507,7 @@ Happy Coding! 💻🚀
 | [0854-making-a-large-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0854-making-a-large-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
+| [3863-power-grid-maintenance](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
@@ -513,6 +517,7 @@ Happy Coding! 💻🚀
 | [0794-swim-in-rising-water](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0854-making-a-large-island) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
+| [3863-power-grid-maintenance](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -611,6 +616,7 @@ Happy Coding! 💻🚀
 | [3790-fruits-into-baskets-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -649,6 +655,7 @@ Happy Coding! 💻🚀
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -733,4 +740,8 @@ Happy Coding! 💻🚀
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
