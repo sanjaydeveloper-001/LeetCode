@@ -261,6 +261,7 @@ Happy Coding! 💻🚀
 | [0040-combination-sum-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0055-jump-game) |
@@ -592,6 +593,7 @@ Happy Coding! 💻🚀
 | [0037-sudoku-solver](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0052-n-queens-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
