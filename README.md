@@ -141,6 +141,7 @@ Happy Coding! 💻🚀
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -186,6 +187,7 @@ Happy Coding! 💻🚀
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0068-text-justification) |
@@ -264,6 +266,7 @@ Happy Coding! 💻🚀
 | [0046-permutations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0068-text-justification) |
@@ -427,6 +430,7 @@ Happy Coding! 💻🚀
 | [0016-3sum-closest](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0455-assign-cookies) |
