@@ -276,6 +276,7 @@ Happy Coding! 💻🚀
 | [0051-n-queens](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -443,6 +444,7 @@ Happy Coding! 💻🚀
 | [0018-4sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0455-assign-cookies) |
