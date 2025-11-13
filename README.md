@@ -278,6 +278,7 @@ Happy Coding! 💻🚀
 | [0055-jump-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -389,6 +390,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -559,6 +561,7 @@ Happy Coding! 💻🚀
 | [0037-sudoku-solver](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0200-number-of-islands) |
