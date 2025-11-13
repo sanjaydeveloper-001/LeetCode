@@ -277,6 +277,7 @@ Happy Coding! 💻🚀
 | [0054-spiral-matrix](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
