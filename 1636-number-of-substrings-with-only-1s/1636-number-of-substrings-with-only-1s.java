@@ -4,8 +4,6 @@ class Solution {
             numSub("111111");
         }
     }
-
-
     public static int numSub(String s) {
         final int MODULO = 1000000007;
         int onesStreak = 0 ;
@@ -15,11 +13,7 @@ class Solution {
                 res = ( res + ++onesStreak) % MODULO ;
             }
             else    onesStreak = 0 ;
-
-
         }
-
         return res;
-
     }
 }
