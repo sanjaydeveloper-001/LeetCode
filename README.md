@@ -200,6 +200,7 @@ Happy Coding! 💻🚀
 | [0065-valid-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -483,6 +484,7 @@ Happy Coding! 💻🚀
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
