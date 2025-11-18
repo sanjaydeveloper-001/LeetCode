@@ -103,6 +103,7 @@ Happy Coding! 💻🚀
 | [0045-jump-game-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0087-scramble-string) |
@@ -288,6 +289,7 @@ Happy Coding! 💻🚀
 | [0057-insert-interval](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -575,6 +577,7 @@ Happy Coding! 💻🚀
 | [0054-spiral-matrix](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0130-surrounded-regions) |
