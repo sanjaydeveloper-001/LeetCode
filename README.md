@@ -169,6 +169,7 @@ Happy Coding! 💻🚀
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2429-design-a-food-rating-system](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -345,6 +346,7 @@ Happy Coding! 💻🚀
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -412,6 +414,7 @@ Happy Coding! 💻🚀
 | [0068-text-justification](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2169-simple-bank-system](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -475,6 +478,7 @@ Happy Coding! 💻🚀
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2689-rearranging-fruits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
