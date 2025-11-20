@@ -1,4 +1,5 @@
 import java.util.Arrays;
+
 class Solution {
     public int intersectionSizeTwo(int[][] intervals) {
         int n = 0;
