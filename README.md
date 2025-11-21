@@ -164,6 +164,7 @@ Happy Coding! 💻🚀
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -224,6 +225,7 @@ Happy Coding! 💻🚀
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -246,6 +248,7 @@ Happy Coding! 💻🚀
 | [0342-power-of-four](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -260,6 +263,7 @@ Happy Coding! 💻🚀
 ## Prefix Sum
 |  |
 | ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
