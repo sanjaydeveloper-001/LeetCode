@@ -60,6 +60,7 @@ Happy Coding! 💻🚀
 | [0168-excel-sheet-column-title](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0342-power-of-four) |
@@ -159,6 +160,7 @@ Happy Coding! 💻🚀
 | [0160-intersection-of-two-linked-lists](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0409-longest-palindrome) |
 | [0900-reordered-power-of-2](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -455,6 +457,7 @@ Happy Coding! 💻🚀
 | [0160-intersection-of-two-linked-lists](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0611-valid-triangle-number) |
