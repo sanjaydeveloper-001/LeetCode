@@ -1,15 +1,20 @@
 class Solution {
-    public long maxRunTime(int n, int[] arr) {
-        Arrays.sort(arr);
-        long total = 0;
-        for (int x : arr) total += x;
-        for (int i = arr.length - 1; i >= 0 && n > 0; i--) {
-            long avg = total / n;
-            if (arr[i] <= avg) break;
-
-            total -= arr[i];
-            n--;
+    public long maxRunTime(int n, int[] batteries) {
+        long totalEnergy = 0;
+        for (int battery : batteries) {
+            totalEnergy += battery;
         }
-        return n == 0 ? 0 : total / n;
+
+        Arrays.sort(batteries);
+
+        for (int i = batteries.length - 1; i >= 0; i--) {
+            if (batteries[i] > totalEnergy / n) {
+                totalEnergy -= batteries[i];
+                n--;
+            } else {
+                break;
+            }
+        }
+        return totalEnergy / n;
     }
 }
