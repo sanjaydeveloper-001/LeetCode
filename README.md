@@ -239,6 +239,7 @@ Happy Coding! 💻🚀
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2211-count-collisions-on-a-road](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -442,6 +443,7 @@ Happy Coding! 💻🚀
 | [0068-text-justification](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2169-simple-bank-system](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -533,6 +535,7 @@ Happy Coding! 💻🚀
 | [1628-count-submatrices-with-all-ones](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2211-count-collisions-on-a-road](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
