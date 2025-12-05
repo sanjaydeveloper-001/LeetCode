@@ -1,21 +1,40 @@
+import java.util.AbstractList;
 class Solution {
-    List<List<Integer>> ans = new ArrayList<>();
-    public List<List<Integer>> combine(int n, int k) {
-        List<Integer> list = new ArrayList<>();
-        helper(n, k, 0, list);
-        return ans;
-    }
-
-    void helper(int n, int k, int num, List<Integer> list) {
-        if (k == 0) {
-            ans.add(new ArrayList<>(list));
+    private void execute(int n, int k, int index, List<Integer> subset, List<List<Integer>> res) {
+        if(subset.size() == k){
+            System.out.println("Found subset: " + subset);
+            res.add(List.copyOf(subset));
             return;
         }
-        
-        for (int i = num + 1; i <= n; i++) {
-            list.add(i);
-            helper(n, k - 1, i, list);
-            list.remove(list.size() - 1);
+
+        for(int i = index; i <= n; i++){
+            subset.add(i);
+            execute(n, k, i + 1, subset, res);
+            subset.removeLast();
         }
+    }
+
+    public List<List<Integer>> combine(int n, int k) {
+        return new AbstractList<List<Integer>>() {
+            List<List<Integer>> res;
+
+            void init() {
+                res = new java.util.ArrayList<>();
+                execute(n, k, 1, new java.util.ArrayList<>(), res);
+            }
+
+            @Override
+            public List<Integer> get(int index) {
+                return res.get(index);
+            }
+
+            @Override
+            public int size() {
+                if (res == null) {
+                    init();
+                }
+                return res.size();
+            }
+        };
     }
 }
