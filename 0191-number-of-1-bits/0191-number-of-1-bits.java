@@ -1,8 +1,10 @@
 class Solution {
     public int hammingWeight(int n) {
-        String bin = Integer.toBinaryString(n);
-        int c = 0;
-        for(int i=0; i<bin.length(); i++) if(bin.charAt(i) == '1') c++;
-        return c;
+        int count  = 0 ;
+        while(n > 0){
+            count += n & 1;
+            n >>>= 1;
     }
+        return count;
+}
 }
