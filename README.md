@@ -261,6 +261,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -824,6 +825,7 @@ Happy Coding! 💻🚀
 | [0023-merge-k-sorted-lists](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
