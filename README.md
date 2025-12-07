@@ -267,6 +267,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0231-power-of-two) |
@@ -330,6 +331,7 @@ Happy Coding! 💻🚀
 | [0068-text-justification](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -716,6 +718,7 @@ Happy Coding! 💻🚀
 | [0051-n-queens](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0113-path-sum-ii) |
 | [0679-24-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0679-24-game) |
