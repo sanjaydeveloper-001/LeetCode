@@ -1,25 +1,21 @@
 class Solution {
-    public List<List<Integer>> subsets(int[] arr) {
+    List<List<Integer>> recur(int ind, int[] nums, List<List<Integer>> subs, int len, List<Integer> curr) {
+        if(ind == len) {
+            subs.add(new ArrayList<>(curr));
+            return subs;
+        }
 
-        List<List<Integer>> list = new ArrayList<>();
-        List<Integer> ans = new ArrayList<>();
-        
-        fun(ans, arr,0,list);
-        return list;
-        
+        curr.add(nums[ind]);
+        recur(ind+1, nums, subs, len, curr);
+
+        curr.remove(curr.size() - 1);
+        recur(ind+1, nums, subs, len, curr);
+
+        return subs;
     }
 
-    public static void fun(List<Integer> ans, int [] arr, int i, List<List<Integer>> list){
-        if(i==arr.length){
-            list.add(new ArrayList<>(ans));
-            return ;
-        }
-        ans.add(arr[i]);
-
-        fun(ans, arr,i+1,list);
-        ans.remove(ans.size() - 1);
-        fun(ans,arr,i+1,list);
-
-
+    public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> subs = new ArrayList<>();
+        return recur(0, nums, subs, nums.length, new ArrayList<>());
     }
 }
