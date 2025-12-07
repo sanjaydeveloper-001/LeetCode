@@ -169,6 +169,7 @@ Happy Coding! 💻🚀
 | [0202-happy-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0409-longest-palindrome) |
 | [0900-reordered-power-of-2](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -233,6 +234,7 @@ Happy Coding! 💻🚀
 | [0171-excel-sheet-column-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0409-longest-palindrome) |
@@ -522,6 +524,7 @@ Happy Coding! 💻🚀
 | [0075-sort-colors](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
