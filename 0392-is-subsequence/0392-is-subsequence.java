@@ -1,11 +1,16 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
-        int i = 0;
-        if( s.length() == 0) return true;
-        for(char c : t.toCharArray()){
-            if( s.charAt(i) == c) i++;
-            if( i == s.length()) return true;
+        boolean dp [][] = new boolean [s.length()+1][t.length()+1];
+        dp[0][0] = true;
+        for(int i=1; i<=s.length(); i++) dp[i][0] = false;
+        for(int i=1; i<=t.length(); i++) dp[0][i] = true;
+
+        for(int i=1; i<=s.length(); i++){
+            for(int j=1; j<=t.length(); j++){
+                if(s.charAt(i-1) == t.charAt(j-1)) dp[i][j] = dp[i-1][j-1];
+                else dp[i][j] = dp[i][j-1];
+            }
         }
-        return false;
+        return dp[s.length()][t.length()];
     }
 }
