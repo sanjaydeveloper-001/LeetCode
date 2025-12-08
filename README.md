@@ -72,6 +72,7 @@ Happy Coding! 💻🚀
 | [0900-reordered-power-of-2](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1025-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -131,6 +132,7 @@ Happy Coding! 💻🚀
 | [0826-soup-servings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1025-divisor-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1025-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -753,6 +755,7 @@ Happy Coding! 💻🚀
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1025-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -872,6 +875,7 @@ Happy Coding! 💻🚀
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1025-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
