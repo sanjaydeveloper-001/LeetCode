@@ -1,7 +1,8 @@
 class Solution {
     public int[] countBits(int n) {
         int [] arr = new int[n+1];
-        for(int i=0; i<=n; i++){
+        int i = 0;
+        while(i<=n){
             if( i < 8) {
                 switch(i){
                     case 0 : { arr[i] = 0; break;}
@@ -15,10 +16,9 @@ class Solution {
                 }
             }
             else{
-                int ind = i/2;
-                int rem = i%2;
-                arr[i] = arr[ind] + arr[rem];
+                arr[i] = arr[i/2] + arr[i%2];
             }
+            i++;
         }
         return arr;
     }
