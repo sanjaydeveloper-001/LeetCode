@@ -127,6 +127,7 @@ Happy Coding! 💻🚀
 | [0338-counting-bits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0746-min-cost-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -359,6 +360,7 @@ Happy Coding! 💻🚀
 | [0611-valid-triangle-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0679-24-game) |
 | [0695-max-area-of-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0695-max-area-of-island) |
+| [0746-min-cost-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0830-largest-triangle-area) |
