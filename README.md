@@ -120,6 +120,7 @@ Happy Coding! 💻🚀
 | [0072-edit-distance](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0118-pascals-triangle) |
@@ -238,6 +239,7 @@ Happy Coding! 💻🚀
 | [0072-edit-distance](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
