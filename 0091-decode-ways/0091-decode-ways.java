@@ -1,25 +1,23 @@
 class Solution {
     public int numDecodings(String s) {
-        if (s.charAt(0) == '0') {
-            return 0;
+        int n=s.length();
+        int dp[]=new int[n+1];
+        Arrays.fill(dp,-1);
+       return decode(0,s,n,dp);
+    }
+    private int decode(int i,String s,int n,int[] dp)
+    {
+        if(i==n)
+        return dp[i]=1;
+        if(s.charAt(i)=='0')
+        return dp[i]=0;
+        if(dp[i]!=-1)
+        return dp[i];
+        int res=decode(i+1,s,n,dp);
+        if(i+1<n){
+            if(s.charAt(i)=='1'||(s.charAt(i)=='2'&&s.charAt(i+1)<='6'))
+            res+=decode(i+2,s,n,dp);
         }
-
-        int n = s.length();
-        int[] dp = new int[n + 1];
-        dp[0] = dp[1] = 1;
-
-        for (int i = 2; i <= n; i++) {
-            int one = Character.getNumericValue(s.charAt(i - 1));
-            int two = Integer.parseInt(s.substring(i - 2, i));
-
-            if (1 <= one && one <= 9) {
-                dp[i] += dp[i - 1];
-            }
-            if (10 <= two && two <= 26) {
-                dp[i] += dp[i - 2];
-            }
-        }
-
-        return dp[n];        
+        return dp[i]=res;
     }
 }
