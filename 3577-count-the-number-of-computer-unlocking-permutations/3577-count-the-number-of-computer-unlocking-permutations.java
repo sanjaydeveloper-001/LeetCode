@@ -7,6 +7,7 @@ class Solution {
         for (int i = 1; i < n; i++) {
             if (comp[i] <= first) return 0;
         }
+
         long fact = 1;
         for (int i = 2; i < n; i++) {
             fact = (fact * i) % MOD;
