@@ -390,6 +390,7 @@ Happy Coding! 💻🚀
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -561,6 +562,7 @@ Happy Coding! 💻🚀
 | [1262-greatest-sum-divisible-by-three](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
