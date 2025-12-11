@@ -1,13 +1,7 @@
 class Solution {
     public int pivotInteger(int n) {
-        int left = 0;
-        int right = 0;
-        for(int i=1; i<=n; i++) right += i;
-        for(int i=1; i<=n; i++){
-            left += i;
-            if(left == right) return i;
-            right -= i;
-        }
-        return -1;
+        int sumOfN = (n*(n+1))/2;
+        int pivot = (int) Math.sqrt(sumOfN);
+        return pivot * pivot == sumOfN ? pivot : -1;
     }
 }
