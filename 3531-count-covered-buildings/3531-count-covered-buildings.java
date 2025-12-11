@@ -1,33 +1,27 @@
 class Solution {
     public int countCoveredBuildings(int n, int[][] b) {
-        if(n == 100000) return 49996;
-        List<List<Integer>> row = new ArrayList<>();
-        List<List<Integer>> col = new ArrayList<>();
-        for(int i=0; i<n+1; i++){
-            List<Integer> ri = new ArrayList<>();
-            List<Integer> ci = new ArrayList<>();
+        int maxrow[] = new int[n+1];
+        int minrow[] = new int[n+1];
+        int maxcol[] = new int[n+1];
+        int mincol[] = new int[n+1];
 
-            row.add(ri);
-            col.add(ci);
-        }
+        Arrays.fill(minrow, n + 1);
+        Arrays.fill(mincol, n + 1);
 
         for(int i=0; i<b.length; i++){
             int r = b[i][0];
             int c = b[i][1];
-            row.get(r).add(c);
-            col.get(c).add(r);
+            maxrow[c] = Math.max(maxrow[c], r);
+            minrow[c] = Math.min(minrow[c], r);
+            maxcol[r] = Math.max(maxcol[r], c);
+            mincol[r] = Math.min(mincol[r], c);
         }
         int count = 0;
         for(int i=0; i<b.length; i++){
             int r = b[i][0];
             int c = b[i][1];
-
-            if(!row.get(r).stream().anyMatch(k -> k > c)) continue;
-            if(!row.get(r).stream().anyMatch(k -> k < c)) continue;
-            if(!col.get(c).stream().anyMatch(k -> k > r)) continue;
-            if(!col.get(c).stream().anyMatch(k -> k < r)) continue;
-
-            count++;
+            if( r < maxrow[c] && r > minrow[c] && c < maxcol[r] && c > mincol[r] )
+                count++;
         }
         return count;
     }
