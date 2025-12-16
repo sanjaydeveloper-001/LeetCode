@@ -157,6 +157,7 @@ Happy Coding! 💻🚀
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -451,6 +452,7 @@ Happy Coding! 💻🚀
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3531-count-covered-buildings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -657,6 +659,7 @@ Happy Coding! 💻🚀
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -731,6 +734,7 @@ Happy Coding! 💻🚀
 | [0199-binary-tree-right-side-view](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Segment Tree
 |  |
 | ------- |
