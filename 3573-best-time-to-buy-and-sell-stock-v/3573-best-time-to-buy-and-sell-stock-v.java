@@ -1,39 +1,32 @@
 class Solution {
-    int n, K;
-    int[] prices;
-    Long[][][] dp;
-    final long NEG = (long)-1e18;
-
-    long dfs(int i, int t, int state) {
-        if (i == n) {
-            return state == 0 ? 0 : NEG;
-        }
-
-        if (dp[i][t][state] != null)
-            return dp[i][t][state];
-
-        long ans = dfs(i + 1, t, state);
-
-        if (state == 0) {
-            ans = Math.max(ans, dfs(i + 1, t, 1) - prices[i]);
-            ans = Math.max(ans, dfs(i + 1, t, 2) + prices[i]);
-        }
-        else if (state == 1 && t < K) {
-            ans = Math.max(ans, dfs(i + 1, t + 1, 0) + prices[i]);
-        }
-        else if (state == 2 && t < K) {
-            ans = Math.max(ans, dfs(i + 1, t + 1, 0) - prices[i]);
-        }
-
-        return dp[i][t][state] = ans;
-    }
-
     public long maximumProfit(int[] prices, int k) {
-        this.prices = prices;
-        this.n = prices.length;
-        this.K = k;
+        int n = prices.length;
+        if (n < 2 || k == 0) return 0;
 
-        dp = new Long[n + 1][k + 1][3];
-        return dfs(0, 0, 0);
+        long[] dp_prev = new long[n];
+        long[] dp_cur = new long[n];
+
+        for (int t = 1; t <= k; t++) {
+            long best_buy = -prices[0];
+            long best_short = prices[0];
+            dp_cur[0] = 0;
+
+            for (int i = 1; i < n; i++) {
+                long a = dp_cur[i - 1];
+                long b = best_buy + prices[i];
+                long c = best_short - prices[i];
+
+                dp_cur[i] = Math.max(Math.max(a, b), c);
+
+                best_buy = Math.max(best_buy, dp_prev[i - 1] - prices[i]);
+                best_short = Math.max(best_short, dp_prev[i - 1] + prices[i]);
+            }
+
+            long[] temp = dp_prev;
+            dp_prev = dp_cur;
+            dp_cur = temp;
+        }
+
+        return dp_prev[n - 1];
     }
 }
