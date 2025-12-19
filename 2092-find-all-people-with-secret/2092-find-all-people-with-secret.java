@@ -1,53 +1,69 @@
 class Solution {
-    public List<Integer> findAllPeople(int n, int[][] meet, int fp) {
-        // Group Meetings in increasing order of time
-        Map<Integer,List<int[]>> timeMeetings = new TreeMap<>();
-        for(int[] m : meet){
-            int x = m[0],y = m[1],t = m[2];
-            timeMeetings.computeIfAbsent(t,k -> new ArrayList<>()).add(new int[]{x,y});
+    public List<Integer> findAllPeople(int n, int[][] meetings, int firstPerson) {
+        int[] parent = new int[n + 1];
+        for (int i = 0; i <= n; i++) {
+            parent[i] = i;
+        }
+        parent[firstPerson] = 0;
+
+        int maxTime = 0;
+        for (int[] meet : meetings) {
+            maxTime = Math.max(maxTime, meet[2]);
         }
 
-        // Boolean Array to mark if a person knows the secret or not
-        boolean[] ks = new boolean[n];// ks -> knows Secret
-        ks[0] = true;
-        ks[fp] = true;
-
-        for(int t : timeMeetings.keySet()){
-            // For each person, save all the people whom he/she meets at time t
-            // Basically make an adjacency list for the graph formed by meetings at time t only
-
-            Map<Integer,List<Integer>> meetList = new HashMap<>();
-            for (int[] m : timeMeetings.get(t)) {
-                int x = m[0],y = m[1];
-                meetList.computeIfAbsent(x,k -> new ArrayList<>()).add(y);
-                meetList.computeIfAbsent(y,k -> new ArrayList<>()).add(x);
+        List<int[]>[] timeArray = new List[maxTime + 1];
+        for (int[] meet : meetings) {
+            if (timeArray[meet[2]] == null) {
+                timeArray[meet[2]] = new ArrayList<>();
             }
+            timeArray[meet[2]].add(new int[]{meet[0], meet[1]});
+        }
 
-            // Set to avoid redundancy
-            Set<Integer> start = new HashSet<>();
-                for (int[] m : timeMeetings.get(t)) {
-                    int x = m[0], y = m[1];
-                    if (ks[x]) start.add(x);
-                    if (ks[y]) start.add(y);
+        for (int i = 1; i < timeArray.length; i++) {
+            if (timeArray[i] != null) {
+                for (int j = 0; j < timeArray[i].size(); j++) {
+                    int u = timeArray[i].get(j)[0];
+                    int v = timeArray[i].get(j)[1];
+                    union(u, v, parent);
                 }
-
-            // BFS
-            Queue<Integer> q = new LinkedList<>(start);
-            while(!q.isEmpty()){
-                int person = q.poll();
-                for(int nextPerson : meetList.getOrDefault(person,new ArrayList<>())){
-                    if(!ks[nextPerson]){
-                        ks[nextPerson] = true;
-                        q.offer(nextPerson);
+                for (int j = 0; j < timeArray[i].size(); j++) {
+                    int u = timeArray[i].get(j)[0];
+                    int v = timeArray[i].get(j)[1];
+                    if (find(u, parent) != 0) {
+                        parent[u] = u;
+                    }
+                    if (find(v, parent) != 0) {
+                        parent[v] = v;
                     }
                 }
             }
         }
-        
-        List<Integer> res = new ArrayList<>();
-        for(int i=0;i<n;i++){
-            if(ks[i]) res.add(i);
+
+        List<Integer> results = new ArrayList<>();
+        for (int i = 0; i < parent.length; i++) {
+            if (parent[i] == 0) {
+                results.add(i);
+            }
         }
-        return res;
+
+        return results;
+    }
+
+    private void union(int u, int v, int[] parent) {
+        int uRoot = find(u, parent);
+        int vRoot = find(v, parent);
+        if (uRoot < vRoot) {
+            parent[vRoot] = uRoot;
+        } else {
+            parent[uRoot] = vRoot;
+        }
+    }
+
+    private int find(int x, int[] parent) {
+        if (parent[x] != x) {
+            parent[x] = find(parent[x], parent);
+        }
+
+        return parent[x];
     }
 }
