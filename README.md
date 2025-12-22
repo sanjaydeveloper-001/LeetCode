@@ -140,6 +140,7 @@ Happy Coding! 💻🚀
 | [0826-soup-servings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1025-divisor-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1025-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1137-n-th-tribonacci-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -266,6 +267,7 @@ Happy Coding! 💻🚀
 | [0392-is-subsequence](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0409-longest-palindrome) |
 | [0474-ones-and-zeroes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -395,6 +397,7 @@ Happy Coding! 💻🚀
 | [0854-making-a-large-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0854-making-a-large-island) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
