@@ -196,6 +196,7 @@ Happy Coding! 💻🚀
 | [0242-valid-anagram](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0409-longest-palindrome) |
+| [0756-pyramid-transition-matrix](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0900-reordered-power-of-2](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -269,6 +270,7 @@ Happy Coding! 💻🚀
 | [0392-is-subsequence](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0409-longest-palindrome) |
 | [0474-ones-and-zeroes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -310,6 +312,7 @@ Happy Coding! 💻🚀
 | [0231-power-of-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -801,6 +804,7 @@ Happy Coding! 💻🚀
 | [0095-unique-binary-search-trees-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0113-path-sum-ii) |
 | [0679-24-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Sliding Window
