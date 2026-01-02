@@ -56,6 +56,7 @@ Happy Coding! 💻🚀
 | [0048-rotate-image](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -375,6 +376,7 @@ Happy Coding! 💻🚀
 | [0059-spiral-matrix-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0075-sort-colors) |
