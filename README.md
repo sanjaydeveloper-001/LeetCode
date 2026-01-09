@@ -202,6 +202,7 @@ Happy Coding! 💻🚀
 | [0409-longest-palindrome](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0409-longest-palindrome) |
 | [0756-pyramid-transition-matrix](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -702,6 +703,7 @@ Happy Coding! 💻🚀
 | [0695-max-area-of-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -725,6 +727,7 @@ Happy Coding! 💻🚀
 | [0695-max-area-of-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -792,6 +795,7 @@ Happy Coding! 💻🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -953,6 +957,7 @@ Happy Coding! 💻🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Divide and Conquer
