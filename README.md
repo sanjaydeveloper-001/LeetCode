@@ -78,6 +78,7 @@ Happy Coding! 💻🚀
 | [1025-divisor-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1266-minimum-time-visiting-all-points](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1448-maximum-69-number) |
@@ -424,6 +425,7 @@ Happy Coding! 💻🚀
 | [1018-binary-prefix-divisible-by-5](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -932,6 +934,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
