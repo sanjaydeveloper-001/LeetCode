@@ -1,58 +1,89 @@
 class Solution {
     public double separateSquares(int[][] squares) {
+        double maxY = 0; 
+        double minY = Integer.MAX_VALUE;
         double totalArea = 0;
-        double low = 2e9; // Initialize with a large value
-        double high = 0;
 
-        // 1. Calculate Total Area and initial bounds
-        for (int[] sq : squares) {
-            double y = sq[1];
-            double l = sq[2];
-            
-            // Cast to double BEFORE multiplying to prevent Integer Overflow
-            totalArea += l * l;
-            
-            low = Math.min(low, y);
-            high = Math.max(high, y + l);
+        for (int i = 0; i < squares.length; i++) {
+            int[] sq = squares[i];
+            double topY = sq[1] + sq[2];
+            maxY = Math.max(maxY, topY);
+            minY = Math.min(minY, sq[1]);
+            totalArea += (double)sq[2] * (double)sq[2];
         }
+        // System.out.println("totalARea: " + totalArea);
 
-        double halfArea = totalArea / 2.0;
+        double lo = minY;
+        double hi = maxY;
+        double precision = Math.pow(10,-5);
+        // System.out.println("precision: " + precision);
 
-        // 2. Binary Search with fixed iterations
-        
-        for (int i = 0; i < 100; i++) {
-            double mid = low + (high - low) / 2.0;
-            
-            if (calculateArea(squares, mid) >= halfArea) {
-                high = mid; // Area is sufficient, try to lower the line
+        while ( lo < hi ) {
+            // System.out.println("\nhi: " + hi + " lo: " + lo + " diff: " + (hi-lo) );
+            if (hi - lo < precision) {
+                break;
+            }
+
+            double mid = lo+(hi-lo)/2.0;
+            // System.out.println("mid: " + mid);
+            double topArea = getTop(squares, mid);
+            double bottomArea = totalArea - topArea;
+
+            // System.out.println("top area: " + topArea + " bottomArea: " + bottomArea);
+
+            if (topArea <= bottomArea) {
+                hi = mid;
             } else {
-                low = mid;  // Area is too small, need to raise the line
+                lo = mid;
             }
         }
-        
-        return high;
+
+        return lo;
     }
 
-    // Helper function to calculate area below the line 'currentY'
-    private double calculateArea(int[][] squares, double currentY) {
-        double area = 0;
-        for (int[] sq : squares) {
-            double y = sq[1];
-            double l = sq[2];
-            double top = y + l;
+    public double getTop(int[][] squares, double line) {
+        double area = 0.0;
 
-            if (y >= currentY) {
-                // Case 1: Square is completely above the line
-                continue;
-            } else if (top <= currentY) {
-                // Case 2: Square is completely below the line
-                area += l * l;
+        for (int[] square : squares) {
+            double y = square[1];
+            double width = square[2];
+
+            if (y >= line) {
+                area += width*width;
             } else {
-                // Case 3: Line cuts through the square
-                // We take the width (l) * the height of the bottom portion (currentY - y)
-                area += l * (currentY - y);
+                if (y + width >= line) {
+                    double actualHeight = y+width-line;
+                    area += actualHeight*width;
+                }
             }
         }
+
         return area;
     }
 }
+
+/**
+
+We have an array of squares which tells us x,y coordinate of the bottom left point, as well as its length
+
+We need to find the minimum y-coordinate of a line that separates all the squares areas into top/bottom sections
+ssuch that the total area occupied by squares are equals on both sides.
+
+constraints / edge cases
+- squares may overlap -> must count them both
+- assume that is always a possible answer
+
+all coordinates positive -> so can start from 0,0 to inf,inf
+
+maximum y would just be max(squares[i][2]) + squares[i][3]
+
+pick mid, 
+find all areas above mid (this is the expensive operation)
+find all areas below mid compare
+if top > bottom, adjust line up, else adjust line down.
+
+
+given a value y, how to find all areas above y??
+
+FFFFFFTTTTTT
+ */
