@@ -948,6 +948,7 @@ Happy Coding! 💻🚀
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Stack
@@ -1070,4 +1071,12 @@ Happy Coding! 💻🚀
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
