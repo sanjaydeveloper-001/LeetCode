@@ -245,6 +245,7 @@ Happy Coding! 💻🚀
 | [3623-count-number-of-trapezoids-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3678-design-task-manager) |
+| [3719-longest-balanced-subarray-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3827-implement-router) |
@@ -367,6 +368,7 @@ Happy Coding! 💻🚀
 | [3616-make-array-elements-equal-to-zero](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Array
@@ -537,6 +539,7 @@ Happy Coding! 💻🚀
 | [3640-trionic-array-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -851,6 +854,7 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -1026,6 +1030,7 @@ Happy Coding! 💻🚀
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0191-number-of-1-bits) |
+| [3719-longest-balanced-subarray-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
