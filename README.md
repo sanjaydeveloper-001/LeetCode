@@ -84,6 +84,7 @@ Happy Coding! 💻🚀
 | [1448-maximum-69-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -343,6 +344,7 @@ Happy Coding! 💻🚀
 | [0868-binary-gap](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -586,6 +588,7 @@ Happy Coding! 💻🚀
 | [0067-add-binary](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0068-text-justification) |
 | [0498-diagonal-traverse](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0498-diagonal-traverse) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2169-simple-bank-system](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
