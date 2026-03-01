@@ -305,6 +305,7 @@ Happy Coding! 💻🚀
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1668-maximum-repeating-substring](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1668-maximum-repeating-substring) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -737,6 +738,7 @@ Happy Coding! 💻🚀
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
