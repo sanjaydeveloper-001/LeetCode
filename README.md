@@ -221,6 +221,7 @@ Happy Coding! 💻🚀
 | [1510-find-lucky-integer-in-an-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -314,6 +315,7 @@ Happy Coding! 💻🚀
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1980-find-unique-binary-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2211-count-collisions-on-a-road) |
@@ -484,6 +486,7 @@ Happy Coding! 💻🚀
 | [1917-maximum-average-pass-ratio](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -920,6 +923,7 @@ Happy Coding! 💻🚀
 | [0113-path-sum-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0113-path-sum-ii) |
 | [0679-24-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [1980-find-unique-binary-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Sliding Window
