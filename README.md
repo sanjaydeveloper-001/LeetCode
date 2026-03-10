@@ -170,6 +170,7 @@ Happy Coding! 💻🚀
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -381,6 +382,7 @@ Happy Coding! 💻🚀
 | [2485-find-the-pivot-integer](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
