@@ -444,6 +444,7 @@ Happy Coding! 💻🚀
 | [0200-number-of-islands](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0228-summary-ranges) |
+| [0406-queue-reconstruction-by-height](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -689,6 +690,7 @@ Happy Coding! 💻🚀
 | [0169-majority-element](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0242-valid-anagram) |
+| [0406-queue-reconstruction-by-height](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
@@ -897,6 +899,7 @@ Happy Coding! 💻🚀
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [1622-fancy-sequence](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -1170,4 +1173,8 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
