@@ -295,6 +295,7 @@ Happy Coding! 💻🚀
 | [0290-word-pattern](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0409-longest-palindrome) |
 | [0474-ones-and-zeroes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0696-count-binary-substrings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0696-count-binary-substrings) |
@@ -732,6 +733,7 @@ Happy Coding! 💻🚀
 | [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0402-remove-k-digits) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -747,6 +749,7 @@ Happy Coding! 💻🚀
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -1039,6 +1042,7 @@ Happy Coding! 💻🚀
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0402-remove-k-digits) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
