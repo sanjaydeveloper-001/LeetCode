@@ -7,15 +7,8 @@ class Solution {
         int max = arr[0][1];
 
         for(int i=1; i<arr.length; i++){
-            int a = arr[i][0];
-            int b = arr[i][1];
-
-            if(a < max){
-                count++;
-            }
-            else{
-                max = b;
-            }
+            if(arr[i][0] < max) count++;
+            else max = arr[i][1];
         }
         return count;
     }
