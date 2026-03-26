@@ -214,6 +214,7 @@ Happy Coding! 💻🚀
 | [0290-word-pattern](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0409-longest-palindrome) |
 | [0756-pyramid-transition-matrix](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [0763-partition-labels](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0763-partition-labels) |
 | [0840-magic-squares-in-grid](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -305,6 +306,7 @@ Happy Coding! 💻🚀
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0761-special-binary-string) |
+| [0763-partition-labels](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0763-partition-labels) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -661,6 +663,7 @@ Happy Coding! 💻🚀
 | [0455-assign-cookies](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0763-partition-labels) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -774,6 +777,7 @@ Happy Coding! 💻🚀
 | [0455-assign-cookies](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0763-partition-labels](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0763-partition-labels) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
