@@ -226,6 +226,7 @@ Happy Coding! 💻🚀
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -315,6 +316,7 @@ Happy Coding! 💻🚀
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1668-maximum-repeating-substring](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -722,6 +724,7 @@ Happy Coding! 💻🚀
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -785,6 +788,7 @@ Happy Coding! 💻🚀
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
