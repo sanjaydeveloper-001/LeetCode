@@ -1,34 +1,20 @@
 class Solution {
-     static {
-        for (int i = 0; i < 140; ++i)
-            candy(new int[] { 1, 3, 2 });
-            System.gc();
-    }
-    public static int candy(int[] ratings) {
-        int i=1;
-        int candy=1;
-        while(i<ratings.length){
-            if(ratings[i]==ratings[i-1]){
-                candy++;
-                i++;
-            }else{
-                int peak=1;
-                while(i<ratings.length&&ratings[i]>ratings[i-1]){
-                    peak++;
-                    candy+=peak;
-                    i++;
-                }
-                int down=1;
-                while(i<ratings.length&&ratings[i]<ratings[i-1]){
-                    candy+=down;
-                    down++;
-                    i++;
-                }
-                if(down>peak){
-                    candy=candy-peak+down;
-                }
+    public int candy(int[] arr) {
+        int n = arr.length;
+        int res[] = new int[n];
+        Arrays.fill(res,1);
+        for(int i=1; i<n; i++){
+            if(arr[i] > arr[i-1]){
+                res[i] = res[i-1]+1;
             }
         }
-        return candy;
+        for(int i=n-1; i>0; i--){
+            if(arr[i-1] > arr[i]){
+                res[i-1] = Math.max(res[i]+1, res[i-1]);
+            }
+        }
+        int sum = 0;
+        for(int i:res){ System.out.print(i+" "); sum+=i; }
+        return sum;
     }
 }
