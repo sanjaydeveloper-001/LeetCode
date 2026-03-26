@@ -4,13 +4,11 @@ class Solution {
         Arrays.sort(s);
         int c = 0;
         int j = 0;
-        for(int i=0; i<s.length; i++){
+        for(int i=0; i<s.length && j<g.length; i++){
             if(s[i] >= g[j]){
                 c++;
-                if(j < g.length-1) j++;
-                else return c;
+                j++;
             }
-
         }
         return c;
     }
