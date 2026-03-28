@@ -171,6 +171,7 @@ Happy Coding! 💻🚀
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2573-find-the-string-with-lcp](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -334,6 +335,7 @@ Happy Coding! 💻🚀
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2573-find-the-string-with-lcp](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2887-sort-vowels-in-a-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -535,6 +537,7 @@ Happy Coding! 💻🚀
 | [2432-number-of-zero-filled-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2573-find-the-string-with-lcp](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -799,6 +802,7 @@ Happy Coding! 💻🚀
 | [2141-maximum-running-time-of-n-computers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2573-find-the-string-with-lcp](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -905,6 +909,7 @@ Happy Coding! 💻🚀
 | [2101-last-day-where-you-can-still-cross](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2573-find-the-string-with-lcp](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -1222,4 +1227,8 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
