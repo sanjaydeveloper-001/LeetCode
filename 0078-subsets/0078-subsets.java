@@ -1,21 +1,19 @@
 class Solution {
-    List<List<Integer>> recur(int ind, int[] nums, List<List<Integer>> subs, int len, List<Integer> curr) {
-        if(ind == len) {
-            subs.add(new ArrayList<>(curr));
-            return subs;
-        }
-
-        curr.add(nums[ind]);
-        recur(ind+1, nums, subs, len, curr);
-
-        curr.remove(curr.size() - 1);
-        recur(ind+1, nums, subs, len, curr);
-
-        return subs;
-    }
-
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> subs = new ArrayList<>();
-        return recur(0, nums, subs, nums.length, new ArrayList<>());
+        List<List<Integer>> li = new ArrayList<>();
+        li.add(new ArrayList<>());
+        
+        int n = nums.length;
+        for(int i=0; i<n; i++){
+            for(int j=0; j<li.size(); j++){
+                List<Integer> nl = new ArrayList<>(li.get(j));
+                if(!nl.contains(nums[i])){
+                    nl.add(nums[i]);
+                    li.add(nl);
+                }
+            }
+        }
+        return li;
     }
+
 }
