@@ -175,6 +175,7 @@ Happy Coding! 💻🚀
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -399,6 +400,7 @@ Happy Coding! 💻🚀
 | [2618-maximize-the-minimum-powered-city](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2906-construct-product-matrix) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
