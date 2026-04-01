@@ -703,6 +703,7 @@ Happy Coding! 💻🚀
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3454-separate-squares-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -818,6 +819,7 @@ Happy Coding! 💻🚀
 | [3075-maximize-happiness-of-selected-children](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1223,6 +1225,7 @@ Happy Coding! 💻🚀
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -1242,4 +1245,9 @@ Happy Coding! 💻🚀
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
