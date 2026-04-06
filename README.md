@@ -952,6 +952,7 @@ Happy Coding! 💻🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0450-delete-node-in-a-bst](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1140,6 +1141,7 @@ Happy Coding! 💻🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0450-delete-node-in-a-bst](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1158,6 +1160,7 @@ Happy Coding! 💻🚀
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 ## Linked List
 |  |
 | ------- |
