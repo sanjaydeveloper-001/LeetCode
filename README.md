@@ -647,6 +647,7 @@ Happy Coding! 💻🚀
 | [0874-walking-robot-simulation](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -1078,6 +1079,7 @@ Happy Coding! 💻🚀
 | [1622-fancy-sequence](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3678-design-task-manager) |
