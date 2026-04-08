@@ -1,31 +1,20 @@
 class Solution {
-    final int mod = 1000000007;
-
-    public int xorAfterQueries(int[] nums, int[][] queries) {
-
-        // Process each query
-        for (int[] t : queries) {
-            int l = t[0];
-            int r = t[1];
-            int k = t[2];
-            int v = t[3];
-
-            int idx = l;
-
-            // Apply operation at step k
-            while (idx <= r) {
-                long temp = nums[idx];
-                nums[idx] = (int)((temp * v) % mod);
-                idx += k;
+    private static final int MOD = 1000000007;
+    public int xorAfterQueries(int[] nums, int[][] q) {
+        for (int[] query : q) {
+            int l = query[0];
+            int r = query[1];
+            int k = query[2];
+            int v = query[3];
+            while (l <= r) {
+                nums[l] = (int)(((long)nums[l] * v) % MOD);
+                l += k;
             }
         }
-
-        // Compute XOR of final array
         int ans = 0;
         for (int num : nums) {
             ans ^= num;
         }
-
         return ans;
     }
 }
