@@ -171,6 +171,7 @@ Happy Coding! 💻🚀
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2463-minimum-total-distance-traveled](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -546,6 +547,7 @@ Happy Coding! 💻🚀
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2429-design-a-food-rating-system](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2463-minimum-total-distance-traveled](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2573-find-the-string-with-lcp](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -761,6 +763,7 @@ Happy Coding! 💻🚀
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2463-minimum-total-distance-traveled](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2689-rearranging-fruits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2751-robot-collisions](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2751-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
