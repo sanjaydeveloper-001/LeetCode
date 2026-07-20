@@ -65,6 +65,7 @@ Happy Coding! 💻🚀
 | [0189-rotate-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0679-24-game) |
@@ -649,6 +650,7 @@ Happy Coding! 💻🚀
 | [0059-spiral-matrix-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0874-walking-robot-simulation) |
@@ -1202,6 +1204,7 @@ Happy Coding! 💻🚀
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0258-add-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
