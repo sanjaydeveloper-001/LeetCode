@@ -69,6 +69,7 @@ Happy Coding! 💻🚀
 | [0326-power-of-three](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -482,6 +483,7 @@ Happy Coding! 💻🚀
 | [0474-ones-and-zeroes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0679-24-game) |
 | [0695-max-area-of-island](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0695-max-area-of-island) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -751,6 +753,7 @@ Happy Coding! 💻🚀
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0900-reordered-power-of-2) |
