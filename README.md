@@ -68,6 +68,7 @@ Happy Coding! 💻🚀
 | [0258-add-digits](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0679-24-game) |
@@ -149,6 +150,7 @@ Happy Coding! 💻🚀
 | [0392-is-subsequence](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -484,6 +486,7 @@ Happy Coding! 💻🚀
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -650,6 +653,7 @@ Happy Coding! 💻🚀
 | [0231-power-of-two](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0509-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
@@ -1212,6 +1216,7 @@ Happy Coding! 💻🚀
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/1025-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
