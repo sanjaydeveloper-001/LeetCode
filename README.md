@@ -275,6 +275,7 @@ Happy Coding! 💻🚀
 | [3714-longest-balanced-substring-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -627,6 +628,7 @@ Happy Coding! 💻🚀
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -795,6 +797,7 @@ Happy Coding! 💻🚀
 | [3606-coupon-code-validator](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3731-find-missing-elements](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Stack
 |  |
