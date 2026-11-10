@@ -194,6 +194,7 @@ Happy Coding! 💻🚀
 | [3618-find-the-original-typed-string-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3640-trionic-array-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3693-climbing-stairs-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Memoization
@@ -627,6 +628,7 @@ Happy Coding! 💻🚀
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3693-climbing-stairs-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3731-find-missing-elements) |
