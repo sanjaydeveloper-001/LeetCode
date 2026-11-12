@@ -583,6 +583,7 @@ Happy Coding! 💻🚀
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
