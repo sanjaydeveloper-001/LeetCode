@@ -360,6 +360,7 @@ Happy Coding! 💻🚀
 | [2887-sort-vowels-in-a-string](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sanjaydeveloper-001/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
